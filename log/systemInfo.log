@@ -1,0 +1,233 @@
+09:30:20,894  INFO mainClass:15 - UserName: cagri.civici
+09:30:22,515  INFO CPU:24 - CPU Usage: 44%
+09:30:24,518  INFO RamSize:18 - RAM Size=15.845989 gigabytes
+09:30:24,518  INFO RamSize:24 - Available processors (cores): 12
+09:30:24,518  INFO RamSize:32 - --------------------------------------------------
+09:30:24,518  INFO RamSize:33 - File system root: C:\
+09:30:24,520  INFO RamSize:34 - Total space (gigabytes): 237
+09:30:24,520  INFO RamSize:35 - Free space (gigabytes): 162
+09:30:24,520  INFO RamSize:36 - Usable space (gigabytes): 162
+09:30:24,521  INFO RamSize:37 - Used space (gigabytes): 75
+09:30:24,521  INFO RamSize:32 - --------------------------------------------------
+09:30:24,521  INFO RamSize:33 - File system root: O:\
+09:30:24,527  INFO RamSize:34 - Total space (gigabytes): 465
+09:30:24,529  INFO RamSize:35 - Free space (gigabytes): 350
+09:30:24,531  INFO RamSize:36 - Usable space (gigabytes): 350
+09:30:24,535  INFO RamSize:37 - Used space (gigabytes): 114
+09:30:24,536  INFO RamSize:32 - --------------------------------------------------
+09:30:24,536  INFO RamSize:33 - File system root: Z:\
+09:30:24,540  INFO RamSize:34 - Total space (gigabytes): 499
+09:30:24,542  INFO RamSize:35 - Free space (gigabytes): 391
+09:30:24,545  INFO RamSize:36 - Usable space (gigabytes): 391
+09:30:24,549  INFO RamSize:37 - Used space (gigabytes): 108
+09:30:24,549  INFO mainClass:20 - --------------------------------------------------
+09:30:46,771  INFO mainClass:15 - UserName: cagri.civici
+09:30:48,392  INFO CPU:24 - CPU Usage: 22%
+09:30:50,399  INFO RamSize:18 - RAM Size = 15.845989 gigabytes
+09:30:50,399  INFO RamSize:24 - Available processors (cores): 12
+09:30:50,399  INFO RamSize:32 - --------------------------------------------------
+09:30:50,399  INFO RamSize:33 - File system root: C:\
+09:30:50,400  INFO RamSize:34 - Total space (gigabytes): 237
+09:30:50,401  INFO RamSize:35 - Free space (gigabytes): 162
+09:30:50,401  INFO RamSize:36 - Usable space (gigabytes): 162
+09:30:50,401  INFO RamSize:37 - Used space (gigabytes): 75
+09:30:50,401  INFO RamSize:32 - --------------------------------------------------
+09:30:50,401  INFO RamSize:33 - File system root: O:\
+09:30:50,407  INFO RamSize:34 - Total space (gigabytes): 465
+09:30:50,409  INFO RamSize:35 - Free space (gigabytes): 350
+09:30:50,411  INFO RamSize:36 - Usable space (gigabytes): 350
+09:30:50,416  INFO RamSize:37 - Used space (gigabytes): 114
+09:30:50,417  INFO RamSize:32 - --------------------------------------------------
+09:30:50,417  INFO RamSize:33 - File system root: Z:\
+09:30:50,421  INFO RamSize:34 - Total space (gigabytes): 499
+09:30:50,423  INFO RamSize:35 - Free space (gigabytes): 391
+09:30:50,425  INFO RamSize:36 - Usable space (gigabytes): 391
+09:30:50,429  INFO RamSize:37 - Used space (gigabytes): 108
+09:30:50,429  INFO mainClass:20 - --------------------------------------------------
+08:20:31,293  INFO mainClass:15 - UserName: cagri.civici
+08:20:33,008  INFO CPU:24 - CPU Usage: 13%
+08:20:35,012  INFO RamSize:18 - RAM Size = 15.845989 gigabytes
+08:20:35,012  INFO RamSize:24 - Available processors (cores): 12
+08:20:35,012  INFO RamSize:32 - --------------------------------------------------
+08:20:35,012  INFO RamSize:33 - File system root: C:\
+08:20:35,014  INFO RamSize:34 - Total space (gigabytes): 237
+08:20:35,014  INFO RamSize:35 - Free space (gigabytes): 161
+08:20:35,015  INFO RamSize:36 - Usable space (gigabytes): 161
+08:20:35,015  INFO RamSize:37 - Used space (gigabytes): 75
+08:20:35,015  INFO RamSize:32 - --------------------------------------------------
+08:20:35,015  INFO RamSize:33 - File system root: O:\
+08:20:35,020  INFO RamSize:34 - Total space (gigabytes): 465
+08:20:35,021  INFO RamSize:35 - Free space (gigabytes): 349
+08:20:35,023  INFO RamSize:36 - Usable space (gigabytes): 349
+08:20:35,026  INFO RamSize:37 - Used space (gigabytes): 115
+08:20:35,027  INFO RamSize:32 - --------------------------------------------------
+08:20:35,027  INFO RamSize:33 - File system root: Z:\
+08:20:35,030  INFO RamSize:34 - Total space (gigabytes): 499
+08:20:35,032  INFO RamSize:35 - Free space (gigabytes): 390
+08:20:35,035  INFO RamSize:36 - Usable space (gigabytes): 390
+08:20:35,038  INFO RamSize:37 - Used space (gigabytes): 109
+08:20:35,038  INFO mainClass:20 - --------------------------------------------------
+08:59:53,538  INFO mainClass:15 - UserName: htr
+08:59:59,673  INFO CPU:24 - CPU Usage: 17%
+09:00:01,679  INFO RamSize:18 - RAM Size = 3.8663177 gigabytes
+09:00:01,679  INFO RamSize:24 - Available processors (cores): 4
+09:00:01,695  INFO RamSize:32 - --------------------------------------------------
+09:00:01,695  INFO RamSize:33 - File system root: C:\
+09:00:01,695  INFO RamSize:34 - Total space (gigabytes): 465
+09:00:01,695  INFO RamSize:35 - Free space (gigabytes): 421
+09:00:01,695  INFO RamSize:36 - Usable space (gigabytes): 421
+09:00:01,695  INFO RamSize:37 - Used space (gigabytes): 43
+09:00:01,695  INFO RamSize:32 - --------------------------------------------------
+09:00:01,695  INFO RamSize:33 - File system root: E:\
+09:00:01,711  INFO RamSize:34 - Total space (gigabytes): 0
+09:00:01,726  INFO RamSize:35 - Free space (gigabytes): 0
+09:00:01,726  INFO RamSize:36 - Usable space (gigabytes): 0
+09:00:01,764  INFO RamSize:37 - Used space (gigabytes): 0
+09:00:01,764  INFO RamSize:32 - --------------------------------------------------
+09:00:01,764  INFO RamSize:33 - File system root: F:\
+09:00:01,780  INFO RamSize:34 - Total space (gigabytes): 0
+09:00:01,795  INFO RamSize:35 - Free space (gigabytes): 0
+09:00:01,811  INFO RamSize:36 - Usable space (gigabytes): 0
+09:00:01,827  INFO RamSize:37 - Used space (gigabytes): 0
+09:00:01,827  INFO RamSize:32 - --------------------------------------------------
+09:00:01,827  INFO RamSize:33 - File system root: G:\
+09:00:01,842  INFO RamSize:34 - Total space (gigabytes): 0
+09:00:01,858  INFO RamSize:35 - Free space (gigabytes): 0
+09:00:01,864  INFO RamSize:36 - Usable space (gigabytes): 0
+09:00:01,880  INFO RamSize:37 - Used space (gigabytes): 0
+09:00:01,880  INFO RamSize:32 - --------------------------------------------------
+09:00:01,880  INFO RamSize:33 - File system root: H:\
+09:00:01,896  INFO RamSize:34 - Total space (gigabytes): 0
+09:00:01,911  INFO RamSize:35 - Free space (gigabytes): 0
+09:00:01,911  INFO RamSize:36 - Usable space (gigabytes): 0
+09:00:01,942  INFO RamSize:37 - Used space (gigabytes): 0
+09:00:01,942  INFO RamSize:32 - --------------------------------------------------
+09:00:01,942  INFO RamSize:33 - File system root: I:\
+09:00:01,965  INFO RamSize:34 - Total space (gigabytes): 0
+09:00:01,965  INFO RamSize:35 - Free space (gigabytes): 0
+09:00:01,980  INFO RamSize:36 - Usable space (gigabytes): 0
+09:00:01,996  INFO RamSize:37 - Used space (gigabytes): 0
+09:00:02,012  INFO mainClass:20 - --------------------------------------------------
+09:06:30,881  INFO mainClass:15 - UserName: htr
+09:06:32,323  INFO CPU:24 - CPU Usage: 38%
+09:06:34,330  INFO RamSize:18 - RAM Size = 3.8663177 gigabytes
+09:06:34,330  INFO RamSize:24 - Available processors (cores): 4
+09:06:34,330  INFO RamSize:32 - --------------------------------------------------
+09:06:34,330  INFO RamSize:33 - File system root: C:\
+09:06:34,330  INFO RamSize:34 - Total space (gigabytes): 465
+09:06:34,330  INFO RamSize:35 - Free space (gigabytes): 423
+09:06:34,330  INFO RamSize:36 - Usable space (gigabytes): 423
+09:06:34,330  INFO RamSize:37 - Used space (gigabytes): 41
+09:06:34,330  INFO RamSize:32 - --------------------------------------------------
+09:06:34,330  INFO RamSize:33 - File system root: E:\
+09:06:34,346  INFO RamSize:34 - Total space (gigabytes): 0
+09:06:34,361  INFO RamSize:35 - Free space (gigabytes): 0
+09:06:34,377  INFO RamSize:36 - Usable space (gigabytes): 0
+09:06:34,392  INFO RamSize:37 - Used space (gigabytes): 0
+09:06:34,392  INFO RamSize:32 - --------------------------------------------------
+09:06:34,392  INFO RamSize:33 - File system root: F:\
+09:06:34,408  INFO RamSize:34 - Total space (gigabytes): 0
+09:06:34,424  INFO RamSize:35 - Free space (gigabytes): 0
+09:06:34,430  INFO RamSize:36 - Usable space (gigabytes): 0
+09:06:34,462  INFO RamSize:37 - Used space (gigabytes): 0
+09:06:34,462  INFO RamSize:32 - --------------------------------------------------
+09:06:34,462  INFO RamSize:33 - File system root: G:\
+09:06:34,477  INFO RamSize:34 - Total space (gigabytes): 0
+09:06:34,493  INFO RamSize:35 - Free space (gigabytes): 0
+09:06:34,493  INFO RamSize:36 - Usable space (gigabytes): 0
+09:06:34,531  INFO RamSize:37 - Used space (gigabytes): 0
+09:06:34,531  INFO RamSize:32 - --------------------------------------------------
+09:06:34,531  INFO RamSize:33 - File system root: H:\
+09:06:34,531  INFO RamSize:34 - Total space (gigabytes): 0
+09:06:34,546  INFO RamSize:35 - Free space (gigabytes): 0
+09:06:34,562  INFO RamSize:36 - Usable space (gigabytes): 0
+09:06:34,577  INFO RamSize:37 - Used space (gigabytes): 0
+09:06:34,577  INFO RamSize:32 - --------------------------------------------------
+09:06:34,577  INFO RamSize:33 - File system root: I:\
+09:06:34,593  INFO RamSize:34 - Total space (gigabytes): 0
+09:06:34,609  INFO RamSize:35 - Free space (gigabytes): 0
+09:06:34,609  INFO RamSize:36 - Usable space (gigabytes): 0
+09:06:34,647  INFO RamSize:37 - Used space (gigabytes): 0
+09:06:34,647  INFO mainClass:20 - --------------------------------------------------
+09:09:04,599  INFO mainClass:15 - UserName: htr
+09:09:05,920  INFO CPU:24 - CPU Usage: 73%
+09:09:07,929  INFO RamSize:18 - RAM Size = 3.8663177 gigabytes
+09:09:07,929  INFO RamSize:24 - Available processors (cores): 4
+09:09:07,929  INFO RamSize:32 - --------------------------------------------------
+09:09:07,929  INFO RamSize:33 - File system root: C:\
+09:09:07,933  INFO RamSize:34 - Total space (gigabytes): 465
+09:09:07,933  INFO RamSize:35 - Free space (gigabytes): 423
+09:09:07,933  INFO RamSize:36 - Usable space (gigabytes): 423
+09:09:07,933  INFO RamSize:37 - Used space (gigabytes): 41
+09:09:07,937  INFO RamSize:32 - --------------------------------------------------
+09:09:07,937  INFO RamSize:33 - File system root: E:\
+09:09:07,945  INFO RamSize:34 - Total space (gigabytes): 0
+09:09:07,957  INFO RamSize:35 - Free space (gigabytes): 0
+09:09:07,969  INFO RamSize:36 - Usable space (gigabytes): 0
+09:09:07,993  INFO RamSize:37 - Used space (gigabytes): 0
+09:09:07,997  INFO RamSize:32 - --------------------------------------------------
+09:09:07,997  INFO RamSize:33 - File system root: F:\
+09:09:08,009  INFO RamSize:34 - Total space (gigabytes): 0
+09:09:08,021  INFO RamSize:35 - Free space (gigabytes): 0
+09:09:08,049  INFO RamSize:36 - Usable space (gigabytes): 0
+09:09:08,061  INFO RamSize:37 - Used space (gigabytes): 0
+09:09:08,061  INFO RamSize:32 - --------------------------------------------------
+09:09:08,061  INFO RamSize:33 - File system root: G:\
+09:09:08,081  INFO RamSize:34 - Total space (gigabytes): 0
+09:09:08,081  INFO RamSize:35 - Free space (gigabytes): 0
+09:09:08,096  INFO RamSize:36 - Usable space (gigabytes): 0
+09:09:08,112  INFO RamSize:37 - Used space (gigabytes): 0
+09:09:08,112  INFO RamSize:32 - --------------------------------------------------
+09:09:08,112  INFO RamSize:33 - File system root: H:\
+09:09:08,128  INFO RamSize:34 - Total space (gigabytes): 0
+09:09:08,143  INFO RamSize:35 - Free space (gigabytes): 0
+09:09:08,159  INFO RamSize:36 - Usable space (gigabytes): 0
+09:09:08,181  INFO RamSize:37 - Used space (gigabytes): 0
+09:09:08,181  INFO RamSize:32 - --------------------------------------------------
+09:09:08,181  INFO RamSize:33 - File system root: I:\
+09:09:08,181  INFO RamSize:34 - Total space (gigabytes): 0
+09:09:08,197  INFO RamSize:35 - Free space (gigabytes): 0
+09:09:08,212  INFO RamSize:36 - Usable space (gigabytes): 0
+09:09:08,228  INFO RamSize:37 - Used space (gigabytes): 0
+09:09:08,228  INFO mainClass:20 - --------------------------------------------------
+09:11:14,033  INFO mainClass:15 - UserName: htr
+09:11:15,357  INFO CPU:24 - CPU Usage: 61%
+09:11:17,374  INFO RamSize:18 - RAM Size = 3.8663177 gigabytes
+09:11:17,374  INFO RamSize:24 - Available processors (cores): 4
+09:11:17,374  INFO RamSize:32 - --------------------------------------------------
+09:11:17,374  INFO RamSize:33 - File system root: C:\
+09:11:17,374  INFO RamSize:34 - Total space (gigabytes): 465
+09:11:17,374  INFO RamSize:35 - Free space (gigabytes): 423
+09:11:17,374  INFO RamSize:36 - Usable space (gigabytes): 423
+09:11:17,374  INFO RamSize:37 - Used space (gigabytes): 41
+09:11:17,374  INFO RamSize:32 - --------------------------------------------------
+09:11:17,374  INFO RamSize:33 - File system root: E:\
+09:11:17,389  INFO RamSize:34 - Total space (gigabytes): 0
+09:11:17,389  INFO RamSize:35 - Free space (gigabytes): 0
+09:11:17,405  INFO RamSize:36 - Usable space (gigabytes): 0
+09:11:17,436  INFO RamSize:37 - Used space (gigabytes): 0
+09:11:17,436  INFO RamSize:32 - --------------------------------------------------
+09:11:17,436  INFO RamSize:33 - File system root: F:\
+09:11:17,436  INFO RamSize:34 - Total space (gigabytes): 0
+09:11:17,452  INFO RamSize:35 - Free space (gigabytes): 0
+09:11:17,467  INFO RamSize:36 - Usable space (gigabytes): 0
+09:11:17,505  INFO RamSize:37 - Used space (gigabytes): 0
+09:11:17,505  INFO RamSize:32 - --------------------------------------------------
+09:11:17,505  INFO RamSize:33 - File system root: G:\
+09:11:17,505  INFO RamSize:34 - Total space (gigabytes): 0
+09:11:17,521  INFO RamSize:35 - Free space (gigabytes): 0
+09:11:17,536  INFO RamSize:36 - Usable space (gigabytes): 0
+09:11:17,552  INFO RamSize:37 - Used space (gigabytes): 0
+09:11:17,552  INFO RamSize:32 - --------------------------------------------------
+09:11:17,552  INFO RamSize:33 - File system root: H:\
+09:11:17,568  INFO RamSize:34 - Total space (gigabytes): 0
+09:11:17,574  INFO RamSize:35 - Free space (gigabytes): 0
+09:11:17,590  INFO RamSize:36 - Usable space (gigabytes): 0
+09:11:17,621  INFO RamSize:37 - Used space (gigabytes): 0
+09:11:17,621  INFO RamSize:32 - --------------------------------------------------
+09:11:17,621  INFO RamSize:33 - File system root: I:\
+09:11:17,621  INFO RamSize:34 - Total space (gigabytes): 0
+09:11:17,637  INFO RamSize:35 - Free space (gigabytes): 0
+09:11:17,652  INFO RamSize:36 - Usable space (gigabytes): 0
+09:11:17,674  INFO RamSize:37 - Used space (gigabytes): 0
+09:11:17,674  INFO mainClass:20 - --------------------------------------------------
